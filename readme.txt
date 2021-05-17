@@ -1,5 +1,8 @@
 /** @mainpage
 
+-> fix : tinyxml without ROS dependencies, and structured.
+lib made to par with hardware dependencies, making us using same lib when parsing in hardware team and in software team.
+
 <h1> TinyXML </h1>
 
 TinyXML is a simple, small, C++ XML parser that can be easily 
